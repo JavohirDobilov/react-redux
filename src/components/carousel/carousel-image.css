@@ -1,0 +1,9 @@
+.carousel-image{
+    border-radius: 15px;
+}
+img{
+    height: 200px;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

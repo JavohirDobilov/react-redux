@@ -1,0 +1,22 @@
+.navbar_navb{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    /* background-color: var(#272d40); */
+    background-color: #44495c;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.header__store-title{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.header__cart-btn-wrapper{
+    color:white;
+    
+}

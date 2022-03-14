@@ -1,0 +1,23 @@
+.empty-cart{
+    margin-top: 140px;
+}
+
+.totalAll{
+    width: 200px;
+    height: 100px;
+    margin: 15px 0;
+    background-color: transparent;
+    border-radius: 15px;
+}
+
+.but{
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(30, 19, 41);
+}
+.total-texta{
+    display: flex;
+    
+    font-size: 16px;
+    align-items: center;
+}
