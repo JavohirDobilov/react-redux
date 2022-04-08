@@ -11,7 +11,7 @@ const OrderPage = () => {
 
   const player = useRef()
   const items = useSelector(state => state.allProducts.cart)
-  const totalPrice = items.reduce((acc,item) =>acc+=+item.price*item.number,0)
+  const totalPrice = items.reduce((acc,item) =>acc+=+item.price*item.number,0) 
 
   if (items.length < 1) {
     return (
